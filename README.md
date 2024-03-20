@@ -11,4 +11,6 @@ My name is Sergi, and I am a Blockchain, cryptography and Fintech enthusiast. He
 - 🛠️ [nem-trezor](https://github.com/shierve/nem-trezor): [2018] NEM integration with Trezor hardware wallet. Used by the official NEM wallet.
 - 🐿️ [cryptopals](https://github.com/shierve/cryptopals-fsharp): [2018] Solutions to the Cryptopals cryptography challenges in F#.
 
-I occasionally post about Blockchain and cryptography on [dev.to](https://dev.to/shierve) such as my [series on Cryptography for programmers](https://dev.to/shierve/cryptography-for-programmers-1-basics-block-cryptography-1iei).
+I occasionally post about Blockchain and cryptography on [dev.to](https://dev.to/shierve) such as my [series on Cryptography for programmers](https://dev.to/shierve/cryptography-for-programmers-1-basics-block-cryptography-1iei) 📖
+
+👤 You can check my [LinkedIn](https://www.linkedin.com/in/sergi-canal-garcia/) for more information about my professional career.
