@@ -6,7 +6,7 @@
 
 My name is Sergi, and I am a Blockchain, cryptography and Fintech enthusiast. Here you can find some of my personal and public projects, such as:
 
-- 🔏 [xrpl-kms](https://github.com/shierve/aws-kms-xrp-signing): [2022] NPM library to sign transactions for the XRP Ledger using AWS KMS. [Technical Blog Post](https://dev.to/shierve/signing-xrpl-transactions-with-aws-kms-30ao).
+- 🔏 [xrpl-kms](https://github.com/shierve/aws-kms-xrp-signing): [2022] NPM library to sign transactions for the XRP Ledger using AWS KMS. ([Technical blog post](https://dev.to/shierve/signing-xrpl-transactions-with-aws-kms-30ao)).
 - 🗳️ [nem-voting](https://github.com/shierve/nem-voting): [2019] NPM library adding the functionality to vote on the NEM blockchain. Used by the official NEM wallet.
 - 🛠️ [nem-trezor](https://github.com/shierve/nem-trezor): [2018] NEM integration with Trezor hardware wallet. Used by the official NEM wallet.
 - 🐿️ [cryptopals](https://github.com/shierve/cryptopals-fsharp): [2018] Solutions to the Cryptopals cryptography challenges in F#.
